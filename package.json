@@ -75,6 +75,7 @@
     "higlass-arcs": "^0.3.3",
     "higlass-labelled-points-track": "^0.1.16",
     "higlass-multivec": "^0.2.10",
+    "higlass-pileup": "^1.2.0",
     "higlass-register": "^0.1.0",
     "higlass-transcripts": "^0.3.4",
     "lru-cache": "^6.0.0",
