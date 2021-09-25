@@ -8,6 +8,14 @@ A collection of popular / useful higlass plugins.
 - HiGlass server: https://github.com/higlass/higlass-server
 - HiGlass docker: https://github.com/higlass/higlass-docker
 
+## Included tracks
+
+- [higlass-pileup](https://github.com/higlass/higlass-pileup)
+- [higlass-multivec](https://github.com/higlass/higlass-multivec)
+- [higlass-labelled-points-track](https://github.com/higlass/higlass-labelled-points-track)
+- [higlass-arcs](https://github.com/higlass/higlass-arcs)
+- [higlass-transcripts](https://github.com/higlass/higlass-transcripts/)
+
 ## Installation
 
 ```
