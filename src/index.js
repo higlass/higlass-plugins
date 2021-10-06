@@ -5,6 +5,24 @@ import Arcs1DTrack from 'higlass-arcs';
 import { TranscriptsTrack } from 'higlass-transcripts';
 import LabelledPointTrack from 'higlass-labelled-points-track';
 import PileupTrack from 'higlass-pileup';
+import DynseqTrack from 'higlass-dynseq';
+import MultiTilesetDataFetcher from 'higlass-multi-tileset';
+
+register(
+  {
+    dataFetcher: MultiTilesetDataFetcher,
+    config: MultiTilesetDataFetcher.config,
+  },
+  {
+    pluginType: 'dataFetcher',
+  },
+);
+
+register({
+  name: 'DynseqTrack',
+  track: DynseqTrack,
+  config: DynseqTrack.config,
+});
 
 register({
   name: 'PileupTrack',
