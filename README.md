@@ -15,6 +15,7 @@ A collection of popular / useful higlass plugins.
 - [higlass-labelled-points-track](https://github.com/higlass/higlass-labelled-points-track)
 - [higlass-arcs](https://github.com/higlass/higlass-arcs)
 - [higlass-transcripts](https://github.com/higlass/higlass-transcripts/)
+- [higlass-dynseq](https://github.com/kundajelab/higlass-dynseq)
 
 ## Installation
 
