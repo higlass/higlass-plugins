@@ -74,7 +74,7 @@
     "d3-request": "^1.0.6",
     "d3-scale": "^3.0.1",
     "higlass-arcs": "^0.3.3",
-    "higlass-dynseq": "^0.1.5",
+    "higlass-dynseq": "^0.1.8",
     "higlass-labelled-points-track": "^0.1.16",
     "higlass-multi-tileset": "^0.1.1",
     "higlass-multivec": "^0.2.10",
